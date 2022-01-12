@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
+# Copyright (C) 2021-present Li Yurui <liyuruijx@pku.edu.cn>
+#
+# License:     GPL-2.0-only 
+# Inspired by: nord-tmux
+# Reference: 
+#   https://github.com/arcticicestudio/nord-tmux
 
 _month=$(date +%m)
 _month=${_month#0}

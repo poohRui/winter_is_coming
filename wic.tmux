@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
+# Copyright (C) 2021-present Li Yurui <liyuruijx@pku.edu.cn>
+#
+# License:     GPL-2.0-only 
+# Inspired by: nord-tmux
+# Reference: 
+#   https://github.com/arcticicestudio/nord-tmux
 
 WIC_TMUX_VERSION=0.1.0
 WIC_TMUX_COLOR_THEME_FILE=src/wic_color_theme.conf

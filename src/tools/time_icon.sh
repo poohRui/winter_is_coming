@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
+# Copyright (C) 2021-present Li Yurui <liyuruijx@pku.edu.cn>
+#
+# License:     GPL-2.0-only 
+# Inspired by: nord-tmux
+# Reference: 
+#   https://github.com/arcticicestudio/nord-tmux
 
 _hour=$(date +%T | awk -F: '{print $1}')
 _hour=${_hour#0}
